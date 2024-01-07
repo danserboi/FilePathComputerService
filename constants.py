@@ -1,0 +1,2 @@
+FILE_PATH_COMPUTER_SERVICE_PORT = "8087"
+GET_FILEPATH_ENDPOINT = '/filepathcomputer/get_filepath'
